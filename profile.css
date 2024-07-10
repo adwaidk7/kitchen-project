@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(158, 158, 154);
+}
+.main-card-box {
+  background-color: aliceblue;
+  height: 107px;
+  width: 362px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 432px;
+  margin-top: 205px;
+  border-radius: 16px;
+  box-shadow: 10px 10px 20px #6f6d6d, -10px -10px 20px #6f6d6d;
+}
+.name-text {
+  font-size: 25px;
+  margin-left: 17px;
+  margin-top: -4px;
+  padding: 12px;
+  padding-left: 11px;
+  padding-top: 12px;
+}
+h3 {
+  font-size: 13px;
+  color: rgb(233, 163, 33);
+  margin-left: 26px;
+  margin-top: -24px;
+}
+img {
+  padding: 12px;
+  width: 88px;
+  border-radius: 19px;
+  margin-top: -92px;
+  margin-left: 240px;
+}
+.href-box {
+  margin-left: 28px;
+  height: 38px;
+  margin-top: -35px;
+  color: rgb(158, 158, 154);
+}
+.fa-linkedin {
+  margin-left: 1px;
+}
+.fa-twitter {
+  margin-left: 9px;
+}
+.fa-instagram {
+  margin-left: 9px;
+}
+a {
+  color: rgb(158, 158, 154);
+}

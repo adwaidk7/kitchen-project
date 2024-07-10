@@ -1,0 +1,43 @@
+.adwaid{
+    background-color: blue;
+    height: 800px;;
+    width: 1200;
+    padding: 10px;
+}
+
+.hey{
+    background-color: brown;
+    height: 200px;
+    width: 500px;
+    float: left;
+    margin: 5px;
+}
+
+.kuo{
+    background-color: rgb(227, 243, 11);
+    height: 200px;
+    width: 500px;
+    float: left;
+    margin: 5px;
+
+}
+.jo{
+    background-color: black;
+    height: 200px;
+    width: 500px;
+    float: left;
+    margin: 5px;
+}
+.him{
+    background-color: blueviolet;
+    height: 200px;
+    width: 500px;
+    float:left;
+    margin: 5px;
+}
+body{
+    margin: 0%;
+}
+i{
+    margin-left: 39px;
+}

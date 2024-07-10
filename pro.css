@@ -1,0 +1,49 @@
+.box1{
+    background-color: rgb(197, 198, 195);
+    height: 600px;
+    width: 1300px;
+}
+.box2{
+    background-color: rgb(145, 145, 150);
+    height: 207px;
+    width: 178px;
+    padding: 55px;
+    padding-bottom: 0px;
+    padding-top: 111px;
+    margin-top: -458px;
+    margin-right: 5px;
+    margin-left: 601px;
+    border-radius: 10px;
+}
+body{
+    margin: 0px;
+}
+button{
+    background-color: rgb(145, 145, 159);
+    width: 122px;
+    height: -14px;
+    margin-left: 23px;
+}
+h1{
+    color: rgb(145, 145, 159);
+    margin-left: 99px;
+    size: 4px;
+    padding-bottom: 0px;
+    padding-top: 214px;
+    font-size: 66px;
+    margin-bottom: -14px;
+}
+h3{
+    color: rgb(145,145, 159);
+    padding-bottom: 5px;
+    padding-top: 0px;
+    margin-left: 95px;
+}
+input{
+    height: 21px;
+    width: 190px;
+    margin-left: -9px;
+}
+hr{
+    width: 70px;
+}

@@ -1,0 +1,22 @@
+button{
+    background-color: rgb(6, 113, 235);
+    color: azure;
+}
+div{
+    height: 203px;
+    background-color: rgb(221, 171, 8);
+    width: 57px;
+    margin-left: 340;
+    border: 5px solid;
+    border-color: rgb(77, 3, 3);
+    margin-top: 125px;
+    padding-top: 50px;
+    padding-left: 10;
+    padding-right: 400;
+    padding-bottom: 83;
+    
+}
+input{
+    height: 20;
+    width: 130;
+}
