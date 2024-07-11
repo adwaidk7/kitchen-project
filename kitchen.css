@@ -1,0 +1,49 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #eec0c6;
+  background-image: linear-gradient(60deg, #ddaeb4 0%, #7ee 74%);
+}
+.kitchen-header input {
+  height: 31px;
+  margin-left: -10px;
+  border: none;
+  width: 179px;
+  outline: none;
+}
+#add-btn {
+  margin-left: -4px;
+  width: 72px;
+  height: 33px;
+  margin-top: -83px;
+  background-color: black;
+  color: azure;
+  border: none;
+}
+.kitchen-itemlist li {
+  background-color: #eec066;
+  padding: 2px;
+  width: 247px;
+  margin-left: 4px;
+  margin-right: 52px;
+  animation: 0.3s ease-in-out;
+  list-style-type: none;
+}
+#add-btn:hover {
+  transform: scale(1.2);
+  transition: 1s;
+}
+.fa-trash {
+  cursor: pointer;
+  margin-left: 213px;
+  background-color: #ffffff;
+  padding: 2px;
+  border-radius: 4px;
+}
+.fa-edit {
+  cursor: pointer;
+  margin-left: 215px;
+  margin-top: 12px;
+}
