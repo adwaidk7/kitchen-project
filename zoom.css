@@ -64,7 +64,7 @@ h3 {
   font-size: 14px;
   margin-top: 24px;
   color: #0956b5;
-  font-family: open sans;
+  font-family: "Almaden Sans", "Helvetica", "Arial" !important;;
 }
 .sign-up button {
   width: 298px;
@@ -75,18 +75,21 @@ h3 {
   background-color: #0e72ed;
   border: none;
   color: #fff;
+  cursor: pointer;
 }
 .agree-terms {
   margin-left: 663px;
   margin-top: 17px;
-  font-size: 15px;
+  font-size: 14px;
   color: #747487;
+  font-family:"Almaden Sans", "Helvetica", "Arial" !important; ;
 }
 .agree-second {
   margin-left: 663px;
   margin-top: 3px;
-  font-size: 15px;
+  font-size: 14px;
   color: #747487;
+  font-family: "Almaden Sans", "Helvetica", "Arial" !important;;
 }
 .box-signin input {
   margin-left: 528px;
@@ -98,7 +101,7 @@ h3 {
   margin-top: -22px;
   font-size: 14px;
   color: #1f2020;
-  font-family: Abel;
+  font-family:"Almaden Sans", "Helvetica", "Arial" !important;;
 }
 .right-section ::placeholder {
   padding: 12px;
